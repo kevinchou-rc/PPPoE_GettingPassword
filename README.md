@@ -65,10 +65,10 @@ Bash
 
 ```bash
 # Windows (以管理员身份运行 CMD 或 PowerShell)
-python pppoe_sniffer.py
+python pppoe_pap.py
 
 # Linux / macOS
-sudo python3 pppoe_sniffer.py
+sudo python3 pppoe_pap.py
 ```
 
 *此时，终端应提示正在监听网络接口，等待拨号。*
